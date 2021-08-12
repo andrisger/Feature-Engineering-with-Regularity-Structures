@@ -1,5 +1,5 @@
 # Feature-Engineering-with-Regularity-Structures
-Classes and Experiments for the paper "Feature Engineering with Regularity Structures".
+Classes and Experiments for the paper "Feature Engineering with Regularity Structures".\\
 Authors of the paper: Ilya Chevyrev, Andris Gerasimovics, Hendrik Weber.
 Code produced by: Andris Gerasimovics.
 Link to the paper:
