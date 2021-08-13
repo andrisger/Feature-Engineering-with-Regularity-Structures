@@ -5,7 +5,7 @@ Authors of the paper: Ilya Chevyrev, Andris Gerasimovics, Hendrik Weber.
 
 Code produced by: Andris Gerasimovics.
 
-Link to the paper: "to appear soon"
+Link to the paper: https://arxiv.org/abs/2108.05879
 
 Classes: 
 
